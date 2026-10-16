@@ -1,9 +1,5 @@
-- 👋 Hi, I’m Luiggy Cadenas
-- 👀 I’m interested in Front End/Full Stack Developer opportunities 
-- 🌱 I’m currently learning GraphQl 
-- 💞️ I’m looking to collaborate on any front End project/Full Stack Project
-- 📫 You can reach me at cadenasluiggy19@gmail.com
-<!---
-cadenasl/cadenasl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I'm Luiggy 👋
+Software Engineer | AI Engineering • Backend • Full-Stack Development
+I'm a software engineer with 5 years of experience building backend and full-stack applications across enterprise and startup environments. I've worked with Python, FastAPI, Go, TypeScript, Node.js, and React, developing APIs, application workflows, and user-facing features.
+I also have hands-on experience building LLM, RAG, and agentic AI applications using tools such as AWS Bedrock, OpenAI, LangChain, LangGraph, and Chroma. I enjoy working through technical tradeoffs and building practical, maintainable solutions.
+I'm interested in AI Engineer, Backend Engineer, and Full-Stack Engineer opportunities.
